@@ -1,4 +1,4 @@
-# ember-cli-deploy-auto-sitemap
+# ember-cli-deploy-postbuild
 
 > An Ember CLI Deploy plugin to ....... (you could add a tag line for your plugin here)
 
