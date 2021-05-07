@@ -4192,6 +4192,11 @@ silent-error@^1.0.0, silent-error@^1.0.1:
   dependencies:
     debug "^2.2.0"
 
+"sitemap-autogenerator@git+https://github.com/maxymczech/SitemapAutogenerator.git":
+  version "1.1.3"
+  uid f1f6a8a45adeb30705cff44ef7c8335701c6d588
+  resolved "git+https://github.com/maxymczech/SitemapAutogenerator.git#f1f6a8a45adeb30705cff44ef7c8335701c6d588"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
@@ -4711,8 +4716,8 @@ underscore.string@~3.3.4:
     util-deprecate "^1.0.2"
 
 underscore@>=1.8.3:
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.9.1.tgz#06dce34a0e68a7babc29b365b8e74b8925203961"
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.1.tgz#0c1c6bd2df54b6b69f2314066d65b6cde6fcf9d1"
 
 union-value@^1.0.0:
   version "1.0.1"
